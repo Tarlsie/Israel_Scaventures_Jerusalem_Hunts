@@ -1,0 +1,340 @@
+<resources>
+    <string name="app_name">Israel Scaventures Jerusalem Hunts</string>
+    <string name="intro_title">Intro</string>
+    <string name="rules">The rules of the games go here</string>
+    <string name="assign_positions">Assign positions go here</string>
+    <string name="isLocationSettingsOn">Is the location setting on?</string>
+    <string name="startButton">Start</string>
+    <string name="sourceButton">Source Sheets</string>
+    <string name="questionsButton">Questions Sheet</string>
+    <string name="questionSheetButton">Press to answer</string>
+    <string name="title_activity_question">QuestionActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="direction1a">Stand so that you are facing the street sign (Mishmerot Hakehuna Rd). Descend two steps so you are on (Mishmerot Hakehuna Rd).  </string>
+    <string name="direction1b">Turn to your left, start walking.  You will pass two olive trees on your right.  </string>
+    <string name="direction1c">Turn into the alley on your right.  Walk up the alley (the parking lot will be on your left). Keep on walking up the alley until you reach the entrance to (Jewish Quarter St.)on your right. </string>
+    <string name="direction1d">Turn into (Jewish Quarter St.)and walk until the Open Air Cardo is on your left. (You will see lots of pillars). Turn and face the Cardo, you are now at your starting point.</string>
+    <string name="direction1e">Your Historian should read from your book of Chronicles about the Cardo.</string>
+    <string name="direction1f">picture</string>
+
+    <string-array name="directions2CardoMadeba">
+        <item>While you are facing the Cardo, turn to your right and continue to walk down the street that you are on, (Jewish Quarter St.). </item>
+        <item>You will pass a set of stairs on your left.  Keep on walking for a few minutes until you reach a second set of stairs that lead into the covered section of the Cardo. </item>
+        <item>Go down the stairs into the main underground section of the Cardo.  </item>
+        <item>You’ll come back here soon - with your backs to the street, turn to your left and walk through the underground Cardo until you reach the Madeba Map (mosaic) in a small room adjacent to the enclosed Cardo. </item>
+        <item>Your Historian should read from your book of Chronicles about the The Madeba Map.</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="directions3MadebaCardo2">
+        <item>Return to the main section of the enclosed Cardo. </item>
+    </string-array>
+    <string-array name="directions4CardoRamban">
+        <item>Go back up the stairs that take you to (Jewish Quarter St.) and turn right.  </item>
+        <item>Keep walking on (Jewish Quarter St.) until the Outdoor Cardo is on your right. </item>
+        <item>Just before you reach the restaurant area, turn left into the opening that will take you into the main square of the Jewish Quarter.  </item>
+        <item>On your immediate left is an olive tree.  Next to the olive tree are stairs going down into the courtyard of the Ramban Synagogue. </item>
+        <item>Go down the stairs and sit down in the plaza. </item>
+        <item>Read your book of Chronicles about the Ramban Synagogue.</item>
+
+    </string-array>
+    <string-array name="directions5RambanMosque">
+        <item>As you climb up the stairs, turn around and look up.  See the only mosque in the Jewish Quarter. </item>
+    </string-array>
+
+    <string-array name="directions6MosqueBetEl">
+        <item>Stand with your back to the entrance to the Ramban Synagogue, so you are facing the stairs that are adjacent to the structure with five arches.  </item>
+        <item>Go up these stairs and walk until you see the Kabbalist Yeshiva (Beit El) – ישיבת המקובלים בית אל. </item>
+        <item>Stand at the entrance to the building at the magnificent silver etched door.  </item>
+        <item>Read about the Yeshiva and Rabbi Meir Yehuda Getz in your Book of Chronicles.</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="directions7BetElChurva">
+        <item>Turn around and face the Ramban Synagogue again.  </item>
+        <item>Above it, you will see the magnificent building of the Churva Synagogue. </item>
+        <item>Read your book of Chronicles about the Churva Synagogue.</item>
+    </string-array>
+    <string-array name="directions8ChurvaEsther">
+        <item>Go back into the Jewish Quarter square, and walk through the center of the square, with the Churva Synagogue on your left and the benches on your right.  </item>
+        <item>After you have passed the Churva Synagogue on your left, there will be an alley on your left.  Enter the alley, it will take you out of the Jewish Quarter Square.  </item>
+        <item>When you have gone all the way through the alley, you will see the enclosed section of the Cardo directly in front of you. At the end of the alley on your left, you will see a street sign on the wall telling you that you are on (Lohame HaRova BeTashah St). </item>
+        <item>On this street (just under the sign) is a small memorial to the people who gave their lives in the battle for the Jewish Quarter in the War of Independence. </item>
+        <item>If the memorial is open you can go in, if it is closed then sit on the stairs.</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="directions9EstherBroadWall">
+        <item>Turn around so the memorial is behind you, return to (Jewish Quarter St).  </item>
+        <item>Turn to your right, and keep walking.  You will pass an archaeological site on your right.  </item>
+        <item>Take a right on to (Plugat HaKotel St.).  </item>
+        <item>You will walk past the public toilets on your right. (You may wish to stop and use them)</item>
+        <item>Keep on walking until you see a metallic fence ahead of you.  Go up to the fence. </item>
+        <item>Read in your Book of Chronicles about the Broad Wall.</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="directions10BroadWallTiferet">
+        <item>While you are facing the Broad Wall, turn left, and follow the fence to the other side of the Broad Wall.  </item>
+        <item>When you reach the play area, follow the road that you are on (do not go down the alley that turns left).  </item>
+        <item>Keep walking until you reach a sign that tells you that you have been on (Bone Ha-homa St). </item>
+        <item>Leave Bone Ha-homa St. and re-enter the Jewish Quarter Square.   </item>
+        <item>Walk up the left side of the square so that you pass the shops on your left. </item>
+        <item>At the red pillar sign posting the Herodian Quarter, take a left into (Quaraites St.). </item>
+        <item>On the bend of (Quaraites St.)you will see the dramatic ruins of the Tiferet Yisrael Synagogue. Much of it has been boarded up while excavations are underway.</item>
+    </string-array>
+    <string-array name="directions11TiferetIstambuli">
+        <item>Go back to the square the way that you came.   </item>
+        <item>When you reach the square turn left.</item>
+        <item>Keep on walking, all the way out of the square on to רח המקובלים (HaMekubalim St).</item>
+        <item>Do not take a left on to Chaye Olam – rather keep on walking straight. </item>
+        <item>Ahead of you, you will see an ornate and decorative door to house number 18. </item>
+        <item>Read your book of Chronicles about the Istanbuli Synagogue.</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="directions12IstambuliGalEd">
+        <item>Continue to walk down the winding alley – Gal Ed St.  </item>
+        <item>At the end of this alley, take a left.  </item>
+        <item>Go up two stairs and sit on the low wall. </item>
+        <item>You are now in the site of the Gal Ed.  </item>
+        <item>During the war of Independence, the Jewish Quarter was under siege.  It was here that the Old City\'s Jewish inhabitants, trapped within the walls by the Arab siege, buried their fallen residents and soldiers.</item>
+        <item>They remained buried here throughout the 19 years of Jordanian occupation of the Old City. After the 6 Day War the bodies were exhumed and brought to rest in the cemetery on the Mount of Olives.</item>
+        <item>picture</item>
+    </string-array>
+    <string-array name="directions13GalEdMachseh">
+        <item>Facing you, on the top right hand side of the square, is the exit of this square through a half arch. </item>
+        <item>Go through the arch, and enter the   בתי מחסה  Batei Machseh Square. </item>
+        <item>Read the Book of Chronicles about Batei Machseh Square.</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="QuestionsMosque">
+        <item>Because of a dispute a certain Jew converted to Islam.  His mother was furious with the Jewish community and in an act of revenge, she dedicated her house to become a mosque.</item>
+        <item>Take a photo of the only mosque in the Jewish Quarter. Write a short rap explaining the lesson of the story of the mosque. It needs to include the words  “Yo yo yo yo my bro”</item>
+
+    </string-array>
+
+    <string-array name="InformationTheCardo">
+        <item>The Cardo</item>
+        <item>“Cardo” is the name for a main street in a Roman City. The Roman Empire conquered Judeah in 63 BCE. In those times, most conquered nations accepted Roman rule, and most conquered nations accepted Roman gods and culture – but the Jews did not. </item>
+        <item>As a result of Roman high taxes, persecution and ideological differences, the Jews revolted against the Romans. To rise up against this mighty empire was crazy, but when the Jewish revolt first started, they had some astonishing successes. However, the Roman army besieged Jerusalem and partly due to Jewish infighting, the Jewish fighters could not withstand the Romans attacks, which battered the city with catapults sending stone, iron and fire onto the population. In the year 70 CE, the Roman General Titus, breached the walls of Jerusalem and three weeks later reached the site of the Second Temple and ordered its destruction. Soon, the magnificent Temple was nothing but rubble and ash.</item>
+        <item>To eliminate all trace of Jewish Jerusalem, the Romans built a new city on top of the ruins, which they called Aelia Capitolina, named after a Greek god.  Through the center of the city, they built the Cardo.  This was a long street, which crossed the city from north to south with tall columns on either side.   The Cardo that you see today is the remains of this street. </item>
+        <item>The total width of the street was 70 feet (22 m), the equivalent of a 4-lane highway.   The reconstructed pillars on the west side of the Cardo supported a wooden roof, which provided shade and shelter from rain for the people in their market stalls. The original pillars on the east side lie under the reconstructed buildings of the Jewish quarter; the palm trees on the main street above the Cardo indicate where the pillars would have stood. The pillars were around 5 meters high. Archeologists have uncovered about 180 meters of the Cardo. </item>
+        <item>Quick fact!!!
+        *The modern street above the Cardo, is about 6 meters higher than the Cardo.  This shows us how much the level of civilization has risen in the last 1400 years.
+        </item>
+    </string-array>
+
+    <string-array name="QuestionsCardo">
+        <item>What nation built the Cardo? </item>
+        <item>What was the status of the Jews with regards to the Cardo?</item>
+        <item>How tall was each pillar? </item>
+        <item>How wide was the street?</item>
+        <item>Count how many pillars you can see. At the end of the Cardo section you will need to answer how many standing pillars (including the half pillars) run through the entire Cardo. </item>
+    </string-array>
+
+    <string-array name="QuestionsCardo2">
+        <item>Look carefully at the floor. Take a picture of team member’s feet where ancient floor tiles meets modern floor tiles (you’re going to have to guess).</item>
+        <item>Note where the wooden roof was reconstructed. Imagine how the Cardo market stalls used to look. How many pillars are did you count in the entire Cardo?</item>
+        <item>Go to the mural: What color robe is the man who is riding the donkey wearing? \nWhat is the woman who is standing behind the camel owner carrying? \nWhat could you buy at the first stall on the right? \nIs there a character with whom you identify?</item>
+        <item>Take a Cardo team Selfie in the your favorite spot in the Cardo. Give the selfie a great caption and upload it to your facebook page. Extra points for lots of “likes”!</item>
+    </string-array>
+    <string-array name="InformationMadebaMap">
+        <item>The Madeba Map</item>
+        <item>One of the most illuminating and accurate sources of our knowledge of Byzantine (Christian) Jerusalem is the Madeba Map. The map that you see is a replica of part of a very large floor mosaic discovered in a church built in the 6th century in the town of Madeba, present-day Jordan.  The original map depicts the entire Middle East. The original floor map provided orientation to pilgrims on their way to the Holy Land. </item>
+        <item>Among other things, the original map depicted the Dead Sea with two fishing boats, the Jordan River, a lion hunting gazelle in the Moav desert, palm trees in Jericho, Bethlehem and other biblical-Christian sites. The largest and most detailed element is Jerusalem at the center of the map, and this is what we see before us. The mosaic clearly shows a number of significant structures in the Old City of Jerusalem: the Damascus Gate, the Lions\' Gate, the Golden Gate, the Zion Gate, the Church of the Holy Sepulchre, the New Church of the Theotokos, the Tower of David and the Cardo. </item>
+        <item>According to this depiction, Jerusalem had no significant Jewish sites.  One cannot see the ruins of the Jewish Temple in Jerusalem or any synagogues in this map. In centuries before the creation of this map, the Romans destroyed the Temple, they razed Jerusalem to the ground; they changed her name to Aelia Capitolina (named after a Greek god) and forbade Jews from entering Jerusalem.  This map depicted a period when Jerusalem was empty of Jews.  </item>
+        <item>Quick facts!!!
+        *The artist actually changed the location of some of the Churches to make them seem more central.  The artist also down sized the Temple Mount.
+        *When Israeli archeologists excavated the Old City in the 1970’s they used this map as a guide. </item>
+    </string-array>
+
+    <string-array name="QuestionsMadebaMap">
+        <item>Take a picture of a group member indicating where the Cardo is on the Madeba map. </item>
+        <item>How many churches can you find?</item>
+        <item>Can you find the Temple Mount, the most important locality to Jews on the map?</item>
+        <item>The artist of the map clearly chose which elements of Jerusalem was important for him to emphasize.  </item>
+        <item>If your team had to draw a map of Jerusalem today, what 5 places would be most important for you to include?</item>
+        <item>At the Madeba Map – recreate the above pic! Upload it to facebook #OnAnIsraelScaVenture</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="InformationRambanSynagogue">
+        <item>The Ramban Synagogue</item>
+        <item>The Ramban, Rabbi Moses Ben Nachman, was a famous Jewish Rabbi and leader who lived in Spain in the 12th Century, a time when Moslems and Christians fought each other for control over the Land of Israel. As a result of constant warfare, the land was in a state of devastation.  When the Ramban left his homeland to settle in Israel, he was shocked by its desolation. Buildings were dilapidated and abandoned. There were so few Jews that he could not even find 10 men for a minyan (prayer quoram).  In a letter to his son, he said: “Many are Israel\'s forsaken places, and great is the desecration. The more sacred the place, the greater the devastation it has suffered. Jerusalem is the most desolate place of all.”  </item>
+        <item>He decided to rebuild the Jewish community. In 1267, he chose a ruined house on Mount Zion to reconstruct as a synagogue. Word of the Ramban’s presence brought more residents to Jerusalem and the Jewish community began to grow. Over time, the Jewish community of Jerusalem increased until once again, Jerusalem became the center of Jewish life in Israel. After his death, the Ramban Synagogue moved inside the Old City walls, where you are now.</item>
+        <item>In 1948, Israel’s war of Independence, the Ramban Synagogue was destroyed. The Old City fell to the Jordanian Army who used this site to dump garbage.    In 1967, the Six Day War, Jerusalem was reunited and the Ramban Synagogue was rebuilt and restored.  Today the Raman’s Synagogue is once again vibrant with prayer and Torah learning.</item>
+        <item>Quick fact!!!
+        *The Ramban Synagogue is three meters below ground level. When it was built, Muslim law forbade Jewish places of worship to be taller than Muslim places of worship, so in order to create high ceilings; they built from a lower level.
+        * This is the oldest active synagogue in Jerusalem.
+        </item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="QuestionsRamban">
+        <item>How many years ago did the Ramban first establish his synagogue?</item>
+        <item>In what condition was Jerusalem in when the Ramban arrived there? </item>
+        <item>How did the Ramban’s presence in Jerusalem affect the Jewish community?</item>
+        <item>Take a picture of group members washing their hands with the traditional wash-cup.</item>
+        <item>What is the text on the wall? </item>
+        <item></item>
+    </string-array>
+    <string-array name="InformationIgeretHaRamban_LetteroftheAges">
+        <item>The Igeret HaRamban: Letter of the Ages</item>
+        <item>This letter was sent by the Ramban to his son, to inspire him to act with humility. </item>
+        <item>“Heed, my son, the lessons of your father, and do not forsake the teachings of your mother. Accustom yourself to speak gently to all people at all times. This will protect you from anger -  which causes one to sin. Once you have distanced yourself from anger, the quality of humility will enter your heart. Through humility, the fear of God will intensity in your heart, for you will always be aware of from where you have come and to where you are destined to go. You will realize that in life you are as frail as the maggot or the worm - all the more so in death. Once you have acquired these fine qualities, you will indeed be happy with your lot.</item>
+        <item>Let your words be spoken gently; let your head be bowed. Cast your eyes downward, and your heart heaven-ward. Let all men seem greater than you in your eyes: If another is more wise or wealthy than yourself, you must show him respect. And if he is poor, and you are richer or wiser than he, consider that he may be more righteous than yourself.</item>
+        <item>In all your words, actions and thoughts - at all times - imagine in your heart that you are standing in the presence of the Holy One, Blessed is He, and that His Presence rests upon you.  When you rise from Torah study, ponder carefully what you have learned; see what there is in it, which you can put into practice. Review your actions every morning and evening, and in this way live all your days in repentance. When you stand to pray; carefully prepare your heart in the presence of the Holy One. Purify your thoughts, and ponder your words before you utter them.</item>
+        <item>Conduct yourself in these ways in all your endeavors for as long as you live. Read this letter once a week, fulfill it, and in so doing, walk with it forever in the ways of God. Every day that you shall read this letter, heaven shall answer your heart\'s desires... Amen, Selah"</item>
+    </string-array>
+
+    <string-array name="QuestionsIgeretHaRamban">
+        <item>Read it in your Book of Chronicles. </item>
+        <item>what does your team think is the most important idea in this text?</item>
+        <item>At the Ramban Synagogue– recreate the above pic! Upload it to facebook #OnAnIsraelScaVenture</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="InformationYeshivaBeitEl">
+        <item>The Kabbalist Yeshiva Beit El Rabbi Yehuda Meir Getz</item>
+        <item>Rabbi Getz was born in Tunisia to a rabbinic family.  When he came to Israel in 1949, he chose not to seek a rabbinic post, but to help establish a Moshav in the Galilee.  He later joined the Israeli army and took part in a number of battles. In the Six Day War in 1967, his son Avner was killed in the battle to recapture the Old City.  After the war, Rabbi Getz and his wife decided to move to Old City as one of the first residents of the Jewish Quarter. Soon afterwards, he was appointed the Rabbi of the Western Wall.</item>
+        <item>He was known for his white shtreimel, beard and white coat – this was an unusual outfit, which combined traditions from Sephardi and Ashkenazi Jews. He was known for his appreciation for soldiers and when he saw them at the Kotel, he would often personally thank them for the role they played in protecting Jerusalem.</item>
+        <item>At midnight each night, Rabbi Getz would enter the tunnels adjoining the Western Wall to spend hours studying Kabbalah and praying. He passed this tradition to his students at the Beit El Yeshiva.  In 1982, he carried out a secret dig under the Temple Mount – it is rumored that he was looking for the Ark of the Covenant. The Ark was not found and the dig came to a quick end when Arabs on the Mount heard banging from a cistern under The Dome of the Rock. </item>
+        <item>Quick fact!!!
+        *It is said that when he noticed someone crying at the Kotel, Rabbi Getz would run to offer his assistance.
+        *He served as Rav (Rabbi) of the Kotel for 28 years.
+        *Once a tourist complained to Rabbi Getz that $300 was stolen from him.  Rabbi Getz calmed him down and gave the man $300.  He later explained: ′This man will return home to his country, and will be asked about his trip.  He will report that he was robbed at the Kotel, and will speak badly of the Kotel.  It is worth $300 to avoid someone maligning the Kotel!
+        </item>
+    </string-array>
+
+    <string-array name="QuestionsYeshivaBeitEl">
+        <item>If you can read Hebrew, what Pasuk (verse) is engraved on the door?</item>
+        <item>What ancient Jewish dream does this verse reflect?</item>
+        <item>what is the artistic/symbolic theme of the door? </item>
+        <item>What inspires you most about Rabbi Getz, who was one of the heads of this Yeshiva?</item>
+    </string-array>
+
+    <string-array name="InformationChurva">
+        <item>The Churva Synagogue</item>
+        <item>Around the year 1700, a renowned rabbi from Russia, Rabbi Yehuda HaHassid, came to Jerusalem with over 500 followers. Sadly, Rabbi Yehuda died soon after arrival, and his followers had to borrow money from local Arabs to build their community. They built a large synagogue on this site, but they soon found themselves with heavy debts.   Finally, in 1721, the patience of the Arab creditors ran out.  They attacked the Jews.  The followers of Rabbi Yehuda HaHassid were forced out of Jerusalem and their houses and property were confiscated. It was decreed that no Ashkenazi Jew could live in Jerusalem until the entire debt was paid.  The courtyard around their synagogue was converted into Arab shops and the synagogue was left in ruins. Thus, it was known as the Churva, meaning the Destroyed Synagogue. </item>
+        <item>In the early 1800\'s another group of Ashkenazi Jews came to the Land of Israel.  Some of these immigrants moved into Jerusalem dressed as Sephardic Jews. Every year, a few more Ashkenazi Jews infiltrated the Jewish Quarter.  In 1837, the Jewish community managed to get permission from the governor to build a new synagogue, Menachem Zion, on the edge of the courtyard.  However, Menachem Zion was not large enough for the growing Ashkenazi community.  In 1856, Sir Moses Montefiore received a permit to erect a large building.  In August 1865, the synagogue stood its full height of 45 meters (150 feet).  It was named the Beis Yaakov Synagogue after James (Yaakov) Rothschild, but everyone still called it the Churva. </item>
+        <item>The magnificent Churva synagogue again became the hub of the Ashkenazi community.  Here Jews prayed and studied Torah round the clock. Here sermons were delivered by famous rabbis to packed audiences. </item>
+        <item>In the 1948 War of Independence, one of the first things the Jordanian army did was to blow up the Churva. After the Six Day War in 1967, when the Old City was cleared and re-built, the Churva remained a ruin. One of the four arches that supported the synagogue’s monumental dome was recreated and for many years, this was the only remnant of the magnificent Churva synagogue.   In 2000, the Israeli Government approved plans to rebuild the Churva, and now it has finally returned to its former glory. </item>
+
+    </string-array>
+
+    <string-array name="QuestionsChurva">
+        <item>How many times has the Churva been built and rebuilt? </item>
+        <item>Who built it each time? </item>
+        <item>Count how many windows you can you see from where you are standing?</item>
+        <item>The word “Churva” means “destruction”.  This name stuck after the first time the Churva was destroyed. Do you think we should still be using this term for the synagogue?</item>
+        <item>Take an awesome team selfie with the Churva in the background. Write in your notepads a caption for the selfie, upload it to Facebook #OnAnIsraelScaVenture</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="InformationBroadWall">
+        <item>The Broad Wall</item>
+        <item>“Cardo” is the name for a main street in a Roman City. The Roman Empire conquered Judeah in 63 BCE. In those times, most conquered nations accepted Roman rule, and most conquered nations accepted Roman gods and culture – but the Jews did not. </item>
+        <item>As a result of Roman high taxes, persecution and ideological differences, the Jews revolted against the Romans. To rise up against this mighty empire was crazy, but when the Jewish revolt first started, they had some astonishing successes. However, the Roman army besieged Jerusalem and partly due to Jewish infighting, the Jewish fighters could not withstand the Romans attacks, which battered the city with catapults sending stone, iron and fire onto the population. In the year 70 CE, the Roman General Titus, breached the walls of Jerusalem and three weeks later reached the site of the Second Temple and ordered its destruction. Soon, the magnificent Temple was nothing but rubble and ash.</item>
+        <item>To eliminate all trace of Jewish Jerusalem, the Romans built a new city on top of the ruins, which they called Aelia Capitolina, named after a Greek god.  Through the center of the city, they built the Cardo.  This was a long street, which crossed the city from north to south with tall columns on either side.   The Cardo that you see today is the remains of this street. </item>
+        <item>The total width of the street was 70 feet (22 m), the equivalent of a 4-lane highway.   The reconstructed pillars on the west side of the Cardo supported a wooden roof, which provided shade and shelter from rain for the people in their market stalls. The original pillars on the east side lie under the reconstructed buildings of the Jewish quarter; the palm trees on the main street above the Cardo indicate where the pillars would have stood. The pillars were around 5 meters high. Archeologists have uncovered about 180 meters of the Cardo. </item>
+        <item>Quick fact!!!
+        *The modern street above the Cardo, is about 6 meters higher than the Cardo.  This shows us how much the level of civilization has risen in the last 1400 years.
+        </item>
+    </string-array>
+
+    <string-array name="QuestionsBroadWall">
+        <item>How many years ago was the wall first built? </item>
+        <item>Who built it? and Why? </item>
+        <item>How thick was it? </item>
+        <item> How high was it?</item>
+        <item>What was the miracle associated with the wall. If stones could speak…what do you think they would want you to know?</item>
+        <item>Find a resident/passerby/shopkeeper and interview them.  You will share the interview with the group at the end.</item>
+    </string-array>
+
+    <string-array name="InformationEstherCalingold">
+        <item>Memorial to the defenders - Esther Calingold’s Last Letter</item>
+        <item>Dear Mummy and Daddy, and Everybody,</item>
+        <item>If you get this at all, it will be, I suppose, typical of all my hurried, messy letters. I am writing it to beg of you that whatever may have happened to me, you will make the effort to take it in the spirit that I want and to understand that for myself I have no regrets. We have had a bitter fight: I have tasted of Gehenom [hell] – but it has been worthwhile because I am quite convinced that the end will see a Jewish state and the realization of our longings. </item>
+        <item>I shall be only one of many who fell in sacrifice, and I was urged to write this because one in particular was killed today who meant a great deal to me. Because of the sorrow I felt, I want you to take it otherwise – to remember that we were soldiers and had the greatest and noblest cause to fight for. God is with us, I know, in His Holy City, and I am proud and ready to pay the price it may cost us to reprieve it. </item>
+        <item>Don\'t think I have taken \'unnecessary risks.\' That does not pay when manpower is short. I hope you may have a chance of meeting any of my co-fighters who survive if I do not, and that you will be pleased and not sad of how they talk of me. Please, please, do not be sadder than you can help. I have lived my life fully if briefly, and I think this is the best way — \'short and sweet.\' Very sweet it has been here in our own land. I hope you shall enjoy from Mimi and Asher the satisfaction you missed in me. Let it be without regrets, and then I too shall be happy. I am thinking of you all, every single one of you in the family, and am full of pleasure at the thought that you will, one day, very soon I hope, come and enjoy the fruits of that for which we are fighting. </item>
+        <item>Much, much love, be happy and remember me in happiness. </item>
+        <item>Shalom and le\'hitraot, Your loving Esther</item>
+    </string-array>
+
+    <string-array name="QuestionsMemorialtothedefendersEstherCalingold">
+        <item>Esther Cailingold was a Jewish teacher from London who came to Israel shortly before the war of Independence.  She volunteered to serve in the Haganah, the Jewish fighting force, and was given one of the most dangerous positions in the Jerusalem Old City.  When she was critically wounded, her comrades had no medication to help her. She died shortly afterwards. Read in the Book of Chronicles the letter she wrote for her family before she died.</item>
+        <item>Count how many names there are in the memorial to commemorate the Defenders who fell on duty. If you can read Hebrew – how many women’s names can you see?</item>
+    </string-array>
+
+    <string-array name="InformationIstambuli">
+        <item>The Istanbuli Synagogue</item>
+        <item>The main Sephardic house of prayer in the 19th and 20th centuries was a complex consisting of four adjoining sanctuaries: the Yochanan Ben Zakai Synagogue, the Istanbuli Synagogue, the Eliyahu Hanavi Synagogue, and the Emtsai Synagogue.  The Istanbuli Synagogue was the largest of the four. It was built in the 1760s by the city’s community of Turkish Jews. </item>
+        <item>During the War of Independence, The Istanbuli Synagogue served as the headquarters for the leaders of the residents of the Jewish Quarter and the soldiers who were defending the Old City. It was in here that they decided to surrender to the Jordanian Army.  The Four Sephardic Synagogues were destroyed by the Jordanians and were used as horse stables. </item>
+        <item>Quick story!!!
+        The story is told, that in 1967, when the Israeli Army liberated the Jewish Quarter street by street, one of the leading officers reached the Istanbuli Synagogue. While his soldiers watched, he approached the door, and put his hand above it, feeling for something on the ledge.  Eventually he showed the soldiers around him what he had found – the key to the door!  He told his men: “In 1948 I locked this door, I hid the key and I promised that one day I would return to open it.  Well now I have returned, we are back!”
+        </item>
+    </string-array>
+
+    <string-array name="QuestionsIstambuli">
+        <item>What significance did this place have in the War of Independence in 1948 and the Six Day War in 1967?</item>
+        <item>While you are facing the door of the Istanbuli Synagogue, turn to your left and look up at the window in the arch above the alley.  What reminder of the War of Independence can you see on the window sill?</item>
+        <item>Take a team jumping pic in front from the small ledge in front of the Istanbuli. Caption the pic and upload it to facebook #OnAnIsraelScaVenture .</item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="InformationTiferetYisrael">
+        <item>The Tiferet Yisrael Synagogue</item>
+        <item>In 1843, a Hassidic community leader,  Rabbi Beck, traveled from Jerusalem to visit the Ruzhiner Rebbe.  He informed him that Czar Nikolai I intended to buy a plot of land near the Western Wall to build a church and monastery there. The Ruzhiner Rebbe, who was very involved in assisting the Jewish community in Israel, gave Rabbi Beck the task to thwart the Czar\'s attempt. Beck managed to buy the land from its Arab owners for an exorbitant sum, mere days before the Czar ordered the Russian counsul in Jerusalem to make the purchase for him. The Czar therefore bought a different plot of land for a church, which is known today as the Russian Compound.</item>
+        <item>Construction started, and despite difficulties, the building started taking shape. In November 1869 Chancellor Franz Joseph, made a visit to Jerusalem. Included in his itinerary was a tour of the Jewish institutions of the city. When he toured the Old City with Rabbi Beck and others, he asked why the synagogue was standing without a roof. Rabbi Beck quipped, "Why, the synagogue took off its hat in honor of Your Majesty". The Chancellor smiled and replied, "I hope the roof will be built soon," and left the Austrian counsel with 1,000 francs for the dome\'s construction. From then on, the dome was referred to by locals as "Franz Joseph\'s cap".</item>
+        <item>The three-story synagogue was finally inaugurated on 19 August 1872, 29 years after the land had been purchased. For the next 75 years, it served as the center for the Hasidic community in the city. It was one of the most beautiful synagogues of Jerusalem, with a commanding view of the Temple Mount, ornate decorations, and beautiful silver objects donated by Hasidim. </item>
+        <item>During the Israel War of Independence, the Tiferet Yisrael Synagogue was used as a post by the Haganah fighting force, in the defense of the Old City. During the Jordanian Legion\'s campaign to capture the Old City, it blew up the synagogue. </item>
+        <item>Following the Six-Day War, the decision was made to leave the ruins of the synagogue as they were. In 2010, at the dedication of the reconstructed Hurva Synagogue, also destroyed in 1948, plans were announced by the same donors who sponsored the Hurva rebuilding, to rebuild the Tiferet Yisrael Synagogue. In 2012, building work started. Before you is the site, which is first being excavated for archeological finds, then it will be rebuilt and restored.</item>
+    </string-array>
+
+    <string-array name="QuestionsTiferetYisrael">
+        <item>Read your Book of Chronicles about the Tiferet Yisrael Synagogue.</item>
+        <item>how long after it was first built did it finally get its dome? What community prayed here?</item>
+        <item>Take a picture of a group member pointing to the signs in the walls of the synagogue that tell the story of the battle that took place here. (Much of the signs are behind the boards, but you will be able to find some…)</item>
+        <item>after the return to Jerusalem in the 6 Day War, for many years there was a dilemma in Israel whether to rebuild the Tiferet Yisrael synagogue, or to leave the ruins as they are.  What would your team decide to do?</item>
+        <item></item>
+        <item>picture</item>
+    </string-array>
+
+    <string-array name="InformationGalEd">
+        <item>A soldier’s story: Nissim Gini</item>
+        <item>Nissim Gini was born in 1938 in the old city of Jerusalem.  He learned in school until the War of Independence broke out, and the Arab siege against the Old City of Jerusalem interrupted his routine life.</item>
+        <item>When the battles started, Nissim volunteered, as did his friends, to defend his city and birthplace.  He demanded a position in the army. Without telephones or wireless radios to communicate between military positions in the winding alleyways of the Old City, Nissim was given the task of being the communication "runner" between positions -- which he did with adult responsibly and faithfully amidst hailstorms of bullets and the thundering of bombs.</item>
+        <item>On the 27 of May, 1948, when one of the Jewish positions fell, Nissim was seriously wounded, and he died a painful day later on the 28th of May, 1948. He was buried in the makeshift cemetery in the Old City – here at the Gal Ed. Nissim Gini was the youngest soldier to fall in Israel’s battles - just ten years old.  </item>
+        <item>After the war Nissim was posthumously given a rank in the IDF, his body was moved to be reburied on the Mount of Olives, and his name is inscribed on the monument at the Mount Herzl military cemetery for the victims of the battle for the Old City of Jerusalem.</item>
+    </string-array>
+
+    <string-array name="QuestionsGalEd">
+        <item>Read the story of the soldier, Nissim Ginni, who was buried here, in the Book of Chronicles.</item>
+        <item>if you could tell the story of Nissim Ginni to a group of people, who would you tell it to? Would they be young or old? Would they be Israeli or not?  </item>
+        <item>Who, in your opinion needs to learn the legacy of Nissim Ginni most? Why?</item>
+    </string-array>
+
+    <string-array name="InformationBateiMachseh">
+        <item>Batei Machseh</item>
+        <item>During the 19th century, there was in influx of Jewish immigration to Israel, and many of the Jews came to settle in the Old City of Jerusalem. The growth in population of the Jewish Quarter led to increased demand for apartments and higher rent demands from Arab landlords.  At times, the Jews had to pay three year’s rent in advance.  Those who found living quarters often had to share single rooms with their entire family, along with other desperate families.</item>
+        <item>The deterioration of sanitary conditions and the shortage of water further aggravated the situation of the Jewish community. A solution had to be found.  In 1858 this plot was purchased to establish the Batei Machseh protective homes. It was built with a donation by Baron Rothschild and the Batei Machseh building still bears the Rothschild family coat of arms.  One hundred apartments built, available for low rent or even free of charge.  The standard of living in these apartments was relatively high – each apartment had two rooms, a kitchen, a clean courtyard and a well. </item>
+        <item>The Batei Machseh housing provided relief for a short period, but it became clear that a long-term solution was needed.  Three years after these apartments were built; Jews started moving out of the Old City as new neighborhoods outside of the walls of the Old City were established.</item>
+        <item>Batei Machseh was the last position held by the defenders of the Jewish quarter in the War of Independence in 1948. Hundreds of residents were crowded into these buildings before the fall of the Jewish Quarter.  They came together here to surrender to the Jordanian Army in May 28 1948.  From here, the last Jewish fighters were taken into Jordanian captivity, while the civilians were evacuated to West Jerusalem.</item>
+        <item>After the Six Day War in 1967, the Batei Machseh building and courtyard were restored.  The row of apartments on the South side of the square became the local school of the Jewish Quarter.  The column fragments, revealed in later excavations are dated to the Second Temple period.</item>
+    </string-array>
+
+    <string-array name="QuestionsBateiMachseh">
+        <item>What family sponsored the housing in this courtyard? </item>
+        <item>What was the role of Batei Machseh during the war of Independence?</item>
+        <item>Take a pic of a maple tree, with something unusual at its base – what is at its base? What could the connection between the tree and the unusual object symbolize?</item>
+        <item>Find a quotation “on the wall” from the prophet Zecharia. write down the words.</item>
+        <item>Find the Rothschild house and take a pic of the emblem of the Rothschild family.</item>
+        <item>Recreate this pic! Give it an awesome caption and upload it to facebook #OnAnIsraelScaVenture.</item>
+    </string-array>
+
+    <string name="completed">Congratulations you have completed your old city scavenger hunt.</string>
+    <string name="transition_string">A completed transition</string>
+    <string name="title_activity_pic_pack_single_pic_view">PicPackSinglePicView</string>
+</resources>
