@@ -337,4 +337,6 @@
     <string name="completed">Congratulations you have completed your old city scavenger hunt.</string>
     <string name="transition_string">A completed transition</string>
     <string name="title_activity_pic_pack_single_pic_view">PicPackSinglePicView</string>
+    <string name="title_activity_aaaaaaaaaa">Map</string>
+    <string name="title_activity_aaaaaaaaaaaaa">Map</string>
 </resources>
