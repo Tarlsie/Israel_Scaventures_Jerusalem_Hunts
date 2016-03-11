@@ -166,7 +166,7 @@ public class PicPackFrag extends Fragment {
 
                     Palette.Swatch textLight = palette.getVibrantSwatch();
                     Palette.Swatch txtBack = palette.getLightMutedSwatch();
-                    if(textLight!=null) {
+                    if(textLight!=null && txtBack!=null) {
                         txtV1.setTextColor(textLight.getRgb());
                         txtV1.setBackgroundColor(txtBack.getTitleTextColor());
                     }

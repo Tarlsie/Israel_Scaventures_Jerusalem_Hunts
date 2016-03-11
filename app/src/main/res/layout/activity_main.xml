@@ -7,72 +7,25 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".Views.MainActivity">
+    tools:context=".Views.MainActivity"
+    android:background="@drawable/home2"
+    >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/intro_title"
-        android:id="@+id/textView2" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/rules"
-        android:id="@+id/textView"
-        android:layout_below="@+id/textView2"
-        android:layout_alignParentStart="true" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/assign_positions"
-        android:id="@+id/textView3"
-        android:layout_below="@+id/textView"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="47dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/isLocationSettingsOn"
-        android:id="@+id/textView4"
-        android:layout_below="@+id/textView3"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="40dp" />
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/startButton"
-        android:id="@+id/button"
-        android:layout_below="@+id/textView4"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="69dp" />
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/sourceButton"
-        android:id="@+id/buttonSource"
-        android:layout_toRightOf="@+id/button"
-        android:layout_below="@+id/textView4"
-        android:layout_alignTop="@+id/button"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:text="Get Ready"
+        android:id="@+id/buttonStart"
+        android:textSize="30sp"
+        android:background="@drawable/button_bgd"
         android:layout_marginLeft="24dp"
-        />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:textColor="@color/cardview_light_background"
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/questionsButton"
-        android:id="@+id/buttonQuestion"
-        android:layout_toRightOf="@+id/buttonSource"
-        android:layout_below="@+id/textView4"
-        android:layout_alignTop="@+id/buttonSource"
-        android:layout_marginLeft="24dp"
         />
 
 </RelativeLayout>

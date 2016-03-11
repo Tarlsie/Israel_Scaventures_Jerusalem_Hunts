@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("random number ", Integer.toString(num));
         GameData.setStation(num);
 
-        Button start = (Button)findViewById(R.id.button);
+        Button start = (Button)findViewById(R.id.buttonStart);
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -43,22 +43,5 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        Button source = (Button)findViewById(R.id.buttonSource);
-        source.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, SourceSheet.class);
-                startActivity(i);
-            }
-        });
-
-        Button questionBtn = (Button)findViewById(R.id.buttonQuestion);
-        questionBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent i = new Intent(MainActivity.this, QuestionActivity.class);
-                startActivity(i);
-            }
-        });
     }
 }
